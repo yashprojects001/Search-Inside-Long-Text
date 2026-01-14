@@ -1,4 +1,4 @@
-🔍 Search Inside Long Text
+🔍 Search Inside Long Text:
 A lightweight web application that allows users to search for keywords inside long texts (books, articles, notes) with automatic highlighting and smooth scrolling to results.
 Built for students, readers, and researchers who work with large blocks of text.
 
